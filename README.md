@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Eliasuarez04/React-Task-Manager](https://github.com/Eliasuarez04/React-Task-Manager)
+   git clone [https://github.com/Eliasuarez04/React-Task-Manager.git](https://github.com/Eliasuarez04/React-Task-Manager.git)
    
 2. Navigate to the directory:
    cd todo-app
