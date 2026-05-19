@@ -1,12 +1,37 @@
-# React + Vite
+# 📝 React Task Manager (Todo App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-Currently, two official plugins are available:
+A lightning-fast, responsive Task Management application built to demonstrate React fundamentals, component state management, and browser storage integration. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **[Live Demo: Try the App Here](https://todo-app-omega-cyan-18.vercel.app/)**
 
-## Expanding the ESLint configuration
+## ✨ Key Features
+* **CRUD Operations:** Users can easily Create, Read, Update, and Delete tasks.
+* **Persistent Data:** Integrates with the browser's `localStorage` API, ensuring that tasks are saved and retrieved even after refreshing the page or closing the browser.
+* **Optimized Performance:** Bootstrapped with Vite for instant server start and lightning-fast Hot Module Replacement (HMR).
+* **Responsive UI:** Clean and intuitive user interface adaptable to mobile and desktop screens.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+* **Build Tool:** Vite
+* **Storage:** LocalStorage API
+
+## 🚀 Installation & Local Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Eliasuarez04/todo-app.git](https://github.com/Eliasuarez04/todo-app.git)
+   
+2. Navigate to the directory:
+   cd todo-app
+
+3. Install the dependencies:
+   npm install
+
+4. Start the Vite development server:
+   npm run dev
